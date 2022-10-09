@@ -1,0 +1,1 @@
+https://portal.azure.com/#@srivastavsrishti1517yahoo.onmicrosoft.com/resource/subscriptions/d9ff8d76-101d-456c-9772-e66c9db496d0/resourcegroups/VstsRG-AutomationCIpipeLine-b636/providers/Microsoft.DevOps/pipelines/AutomationCIpipeLine
